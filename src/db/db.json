@@ -1,1 +1,30 @@
-[]
+[
+     {
+          "id": "bfe5bfe8-df61-4bef-967d-edbb276704b2",
+          "name": "Christine Weimann Sr.",
+          "phone": "298-637-5699",
+          "email": "Toney_Mertz26@hotmail.com",
+          "job": "Product Brand Specialist"
+     },
+     {
+          "id": "a66d6233-cc39-4f4b-9fd2-609de6305da6",
+          "name": "Kelly Konopelski",
+          "phone": "587.801.6541 x37111",
+          "email": "Georgette16@hotmail.com",
+          "job": "Principal Group Liaison"
+     },
+     {
+          "id": "95fd72ee-804a-4d04-b426-e7cf177943e3",
+          "name": "Sheri Hamill",
+          "phone": "1-237-979-3646 x3912",
+          "email": "Trey.Ratke74@yahoo.com",
+          "job": "Lead Accountability Facilitator"
+     },
+     {
+          "id": "62add9a2-fffe-4086-a572-6c2b87453891",
+          "name": "Glenn Schmidt",
+          "phone": "483.285.6683 x30074",
+          "email": "Kaley.Fay79@hotmail.com",
+          "job": "Direct Intranet Administrator"
+     }
+]
